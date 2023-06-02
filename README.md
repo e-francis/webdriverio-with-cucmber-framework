@@ -48,6 +48,11 @@ The `tsconfig.json` file is a TypeScript configuration file that specifies the c
 - `experimentalDecorators`: Enables support for experimental decorators in TypeScript.
 - `emitDecoratorMetadata`: Enables emitting decorator metadata in TypeScript.
 
+## Dependency Injection with tsyringe
+This project utilizes tsyringe for dependency injection. tsyringe is a lightweight and flexible dependency injection container for TypeScript. It provides a simple way to manage dependencies and promote modular and testable code.
+
+The tsyringe library allows you to define dependencies as classes and automatically resolves them when needed. It helps decouple components and promotes cleaner code architecture by abstracting the creation and management of dependencies.
+
 ## Running the Tests
 
 To run the tests, you can use the `npx wdio` command. Here's how you can execute it:
