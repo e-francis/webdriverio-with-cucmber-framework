@@ -1,6 +1,6 @@
 # WDIO Cucumber Framework Project
 
-This is a WDIO Cucumber framework project developed in TypeScript using IntelliJ IDEA Ultimate edition. The purpose of this project is to test the landing screen, signup screen, and login screen of an application. Please note that the project is not functional as it was created based on screenshots of the app to be tested.
+This is a WDIO Cucumber framework project developed in TypeScript using IntelliJ IDEA Ultimate edition and the POM(Page Object Model) test design pattern. The purpose of this project is to test the landing screen, signup screen, and login screen of an application. Please note that the project is not functional as it was created based on screenshots of the app to be tested.
 
 ## Project Structure
 
@@ -62,4 +62,7 @@ To run the tests, you can use the `npx wdio` command. Here's how you can execute
 
 Please note that you need to install the necessary dependencies using `npm install` before running the tests for the first time.
 
-That's it! You should now be able to develop and run your WDIO Cucumber framework project in IntelliJ IDEA using the provided configuration and commands. Happy testing!
+That's it! You should now be able to develop and run your WDIO Cucumber framework project in IntelliJ IDEA using the provided configuration and commands.
+If you have any questions, suggestions, or would like to discuss the project further, feel free to reach out to me via email at francemma67@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/emmanuel-francis-b8a37814b/. I would be more than happy to assist you and discuss any improvements or enhancements that can be made to the project.
+
+Happy testing!
